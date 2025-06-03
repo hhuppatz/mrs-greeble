@@ -1,0 +1,36 @@
+body {
+    background-color:  hsl(300, 65%, 56%);
+}
+h1 {
+    color: wheat;
+    font-family: "Lucida Handwriting", cursive;
+    font-size: xx-large;
+    text-align: center;
+
+    border-top-style: dotted;
+    border-top-color: gold;
+    border-top-width: 10px;
+
+    border-bottom-style: dotted;
+    border-bottom-width: 10px;
+    border-bottom-color: gold;
+}
+p {
+    background-color:  hwb(300 42% 16%);
+    font-family: "consolas", "", sans-serif;
+    font-size: larger;
+    margin: 2 auto;
+    text-align: center;
+    line-height: 1.5;
+
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 3cap;
+
+    padding: 2%;
+}
+.container img {
+  height: 100%;
+  width: 100%;
+}
